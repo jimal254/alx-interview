@@ -1,1 +1,1 @@
-# Alx Interview preparation
+# alx-interview
